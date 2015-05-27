@@ -12,7 +12,7 @@ public class App {
         }
     }
 
-    public static void main(String[] args) {
+    public static void main(String... args) {
         System.out.println("This app will solve quadratic equations. ");
         while (true) {
             System.out.println("\nTo stop please enter \"stop\" " + "\nPlease enter values of a, b, c and" +

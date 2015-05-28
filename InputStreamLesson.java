@@ -1,7 +1,7 @@
 package Quadratic;
 import java.io.*;
 
-public class InputStreamLesson {
+public class InputStreamLesson {//sldkfsldk
 
     public static void main(String[] args) {
         File fileFrom = new File("foto1.jpg");
